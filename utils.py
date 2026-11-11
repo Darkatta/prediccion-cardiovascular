@@ -17,7 +17,6 @@ RANGOS = {
 }
 
 # Variables categóricas: código -> etiqueta comprensible
-# OJO: verifica slope y thal con la tabla de variables de tu notebook.
 ETIQUETAS = {
     'sex': {0: 'Femenino', 1: 'Masculino'},
     'cp': {0: 'Angina típica', 1: 'Angina atípica',
