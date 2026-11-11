@@ -58,7 +58,7 @@ streamlit run app.py
 Dataset pequeño (303) y prueba de 61 pacientes; sin optimización de hiperparámetros; `ca` y `thal`
 vienen de pruebas diagnósticas adicionales; persisten falsos negativos; datos de una sola institución.
 
-## Uso de inteligencia artificial
+
 ## Uso de inteligencia artificial
 **Herramienta:** Claude (Anthropic)
 **Propósito:** generar la estructura de la aplicación Streamlit (app.py y utils.py), la validación de entradas, la celda del notebook para guardar el pipeline y las métricas, y orientación para el despliegue en GitHub y Streamlit Cloud.
